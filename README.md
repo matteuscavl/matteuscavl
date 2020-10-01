@@ -19,7 +19,7 @@
 <hr>
 
 #### About-me
-##### Além de amar programação, também sou apaixonado por filosofia, economia e cultura nerd em geral. Mais pra frente pretendo me aprofundar em UI/UX Design. Não dispenso um bom rock e uma boa cerveja geladinha 🤘🏻🍺
+##### Além de amar programação, também sou apaixonado por filosofia, economia e cultura nerd em geral. Não dispenso um bom rock e uma boa cerveja geladinha 🤘🏻🍺
 
 ![Shouganaii GitHub Stats](https://github-readme-stats.vercel.app/api?username=matteuscavl&show_icons=true)
 
