@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="image-perfil" min-width="400px" max-width="400px" width="400px" align="right">
 
 #### Hi Guys! 🖖🏻
-##### Me chamo Mateus Cavalcanti, tenho 22 anos. Atualmente estou cursando Analise e Desenvolvimento de Sistemas, tenho focado meus estudos para o Desenvolvimento Web, mais especificamente para o Front End. Sou completamente apaixonado por JavaScript e por tudo que ele é capaz de fazer.
+##### Me chamo Mateus Cavalcanti, tenho 22 anos. Atualmente estou cursando Analise e Desenvolvimento de Sistemas e tenho focado meus estudos para o Desenvolvimento Web. Sou completamente apaixonado por JavaScript e por tudo que ele é capaz de fazer. Também tenho interesse em tecnologias de Criptografia e Blockchain.
 <hr>
 
 #### Techs: 
@@ -17,13 +17,12 @@
                                                                                                                               
 #### Currently learning: 
 <p flolat"left">
-  <img src="https://user-images.githubusercontent.com/60491966/91625491-30acbf00-e97e-11ea-8baf-89077c1fde1a.png" width="30px">
   <img src="https://user-images.githubusercontent.com/71419758/94760298-79d6a100-0378-11eb-911b-334966f2660a.png" width="30px">
 </p>                                                                                                                             
 <hr>
 
 #### About-me
-##### Além de amar programação, também sou apaixonado por filosofia, economia e cultura nerd em geral. Não dispenso um bom rock e uma boa cerveja geladinha 🤘🏻🍺
+##### Além de amar programação, também sou apaixonado por filosofia, economia e cultura nerd em geral. Entusiasta do Bitcoin, não dispenso um bom rock e uma boa cerveja geladinha 🤘🏻🍺
 
 #### Social Medias:
 
