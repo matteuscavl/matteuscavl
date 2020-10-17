@@ -1,35 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="image-perfil" min-width="400px" max-width="400px" width="400px" align="right">
-
-#### Hi Guys! 🖖🏻
-##### Me chamo Mateus Cavalcanti, tenho 22 anos. Atualmente estou cursando Analise e Desenvolvimento de Sistemas e tenho focado meus estudos para o Desenvolvimento Web. Sou completamente apaixonado por JavaScript e por tudo que ele é capaz de fazer. Também tenho interesse em tecnologias de Criptografia e Blockchain.
-<hr>
-
-#### Techs: 
-<p float=left">
-  <img src="https://user-images.githubusercontent.com/60491966/91625431-aa907880-e97d-11ea-9f87-f5b9932ac172.png" width="30px">
-  <img src="https://user-images.githubusercontent.com/60491966/91625486-2d193800-e97e-11ea-8b64-1a9f42ad90e9.png" width="30px">
-  <img src="https://user-images.githubusercontent.com/71419758/94327809-c9395d80-ff83-11ea-9b0c-068f565225d6.png" width="30px">                                                     <img src="https://user-images.githubusercontent.com/60491966/91625487-2e4a6500-e97e-11ea-95b1-d8146efd6a96.png" width="30px">
-  <img src="https://user-images.githubusercontent.com/71419758/93416309-ee3f1980-f87b-11ea-943f-451f6b606af4.png" width="25px"> 
-  <img src="https://user-images.githubusercontent.com/60491966/91625483-28548400-e97e-11ea-8f3f-4fdf1a45373a.png" width="30px">                                                   
-  <img src="https://user-images.githubusercontent.com/60491966/91625490-30142880-e97e-11ea-9995-d155fdf48aff.png" width="25px">
-  <img src="https://user-images.githubusercontent.com/60491966/91625781-7d919500-e980-11ea-9e65-d4e8817c6f5d.png" width="25px">
-  <img src="https://user-images.githubusercontent.com/60491966/91625587-ee37b200-e97e-11ea-85e5-cc8fa4a9be79.png" width="25px">     
-                                                                                                                              
-#### Currently learning: 
-<p flolat"left">
-  <img src="https://user-images.githubusercontent.com/71419758/94760298-79d6a100-0378-11eb-911b-334966f2660a.png" width="30px">
-</p>                                                                                                                             
-<hr>
-
-#### About-me
-##### Além de amar programação, também sou apaixonado por filosofia, economia e cultura nerd em geral. Entusiasta do Bitcoin, não dispenso um bom rock e uma boa cerveja geladinha 🤘🏻🍺
-
-#### Social Medias:
-
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-cavalcanti-a95aa91b5/)](https://www.linkedin.com/in/mateus-cavalcanti-a95aa91b5/)
-  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581987361156&text=Hello!)](https://api.whatsapp.com/send?phone=5581987361156&text=Hello!)
-  [![Gmail Badge](https://img.shields.io/badge/-mateuslcavl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateuslcavl@gmail.com)](mailto:mateuscavl1@gmail.com)
-</p>
-
-📷: <a href="https://www.instagram.com/cavalcan7i_/">Instagram</a><br>
-💬: <a href="https://pt.stackoverflow.com/users/173117/mateus-cavalcanti">Stack overflow</a>
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/cavalcan7i_/?hl=pt-br)
+[<img src="https://img.shields.io/badge/whatsapp-%25d366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5581987361156)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateus-cavalcanti-2217a11b8/)
