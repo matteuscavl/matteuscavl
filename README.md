@@ -7,8 +7,7 @@
 <ul>
   <li> 🚀 Novos Desafios </li>
   <li> 💻 Contribuir com projetos Open Source </li>
-  <li> 💛 Aprimorar meu conhecimento em Javascript </li>
-  <li> ⚡ Aprimorar meu conhecimento no Desenvolvimento Backend </li>
+  <li> 💛 Aprimorar meu conhecimento no Desenvolvimento Backend </li>
   <li> 🖤 Aprender mais sobre Blockchain, Bitcoin, Criptografia e Sistemas Distribuidos </li>
 </ul>
 
@@ -26,7 +25,6 @@
 
 <p align="center">
   <b>I'm current Learning:</b><br>
-  <img src="https://user-images.githubusercontent.com/71419758/96328676-0d1c0180-101c-11eb-98b3-c32d82ef88aa.png" width="30px">
   <img src="https://user-images.githubusercontent.com/71419758/96328909-4ce3e880-101e-11eb-8509-5ef4ec3f14aa.png" width="30px">
   <img src="https://user-images.githubusercontent.com/71419758/96328800-16f23480-101d-11eb-801c-7b8023928087.png" width="30px">
 </p>
